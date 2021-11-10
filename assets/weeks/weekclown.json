@@ -1,0 +1,48 @@
+{
+	"storyName": "Clown Engaged",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"improbable-outset",
+			"tricky",
+			[
+				140,
+				0,
+				0
+			]
+		],
+		[
+			"madness",
+			"tricky",
+			[
+				140,
+				0,
+				0
+			]
+		],
+		[
+			"expurgation",
+			"extricky",
+			[
+				140,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weektricky"
+}

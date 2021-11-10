@@ -1,0 +1,39 @@
+{
+	"storyName": "no more fingers uwu x3",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"sporting",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"boxing-match",
+			"matt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

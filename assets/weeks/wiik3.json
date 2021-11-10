@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"king-hit",
+			"matt",
+			[
+				146,
+				120,
+				100
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "One Last Rematch",
+	"weekName": "Wiik3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-250
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Ex Tricky",
+			"indices": [
+				29,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-250
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Ex Tricky",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ex-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
