@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				290,
+				193
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				104
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				301
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				411
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				519,
+				336
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up pistola",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				491,
+				289
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right pistola",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				11
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down pistola",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				80
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left pistola",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jebus-angry",
+	"position": [
+		150,
+		220
+	],
+	"healthicon": "jebus",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

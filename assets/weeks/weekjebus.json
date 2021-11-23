@@ -1,0 +1,39 @@
+{
+	"storyName": "To Purge The Wicked",
+	"hideFreeplay": false,
+	"weekBackground": "jebus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"anger-of-god",
+			"jebus",
+			[
+				75,
+				0,
+				0
+			]
+		],
+		[
+			"1core-killer",
+			"jebus",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weekjebus"
+}

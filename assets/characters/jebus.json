@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				377,
+				224
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				241
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				173
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				290,
+				193
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				271
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jebus",
+	"position": [
+		-30,
+		180
+	],
+	"healthicon": "jebus",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

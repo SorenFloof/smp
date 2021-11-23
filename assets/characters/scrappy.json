@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scarface_idle"
+		},
+		{
+			"offsets": [
+				-140,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scarface_Right"
+		},
+		{
+			"offsets": [
+				280,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scarface_Left"
+		},
+		{
+			"offsets": [
+				150,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scarface_Down"
+		},
+		{
+			"offsets": [
+				-130,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scarface_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scrappy",
+	"position": [
+		-270,
+		-20
+	],
+	"healthicon": "scrapeface",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		155,
+		155
+	],
+	"camera_position": [
+		-90,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

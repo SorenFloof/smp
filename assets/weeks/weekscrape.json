@@ -1,0 +1,30 @@
+{
+	"storyName": "An Experiment",
+	"hideFreeplay": false,
+	"weekBackground": "scrape",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"inquiry",
+			"scrapeface",
+			[
+				146,
+				153,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekscrape"
+}
